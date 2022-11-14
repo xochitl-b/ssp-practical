@@ -1,0 +1,75 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<menu>
+    <category name="Coffee">
+        <item>
+            <listing>Espresso</listing>
+            <price>3.00</price>
+        </item>
+        <item>
+            <listing>Latte</listing>
+            <price>3.50</price>
+        </item>    
+        <item decaf="true">
+            <listing>Americano</listing>
+            <price>p</price>
+        </item>       
+    </category>
+
+    <category name="Frappe">
+        <item>
+            <listing>Salted Caramel</listing>
+            <price>4.50</price>
+        </item>
+        <item>
+            <listing>Min Chocolate</listing>
+            <price>5.50</price>
+        </item>    
+        <item decaf="true">
+            <listing>Cholate Milkshake</listing>
+            <price>5.00</price>
+        </item>    
+    </category>
+    <category name="Iced Coffe">
+        <item>
+            <listing>Iced Americano</listing>
+            <price>4.0</price>
+        </item>
+        <item>
+            <listing>Iced Toasted Vanilla</listing>
+            <price>4.00</price>
+        </item>    
+        <item decaf="true">
+            <listing>Iced Honey almond espresso</listing>
+            <price>6.00</price>
+        </item> 
+
+    </category>
+    <category name="Tea">
+        <item>
+            <listing>Green tea</listing>
+            <price>2.50</price>
+        </item>
+        <item>
+            <listing>Black tea</listing>
+            <price>4.50</price>
+        </item>    
+        <item decaf="true">
+            <listing>Matcha</listing>
+            <price>4.00</price>
+        </item> 
+    </category>
+    <category name="Deserts">
+        <item>
+            <listing>Brownies</listing>
+            <price>3.50</price>
+        </item>
+        <item>
+            <listing>Strawberry Short cake</listing>
+            <price>5.00</price>
+        </item>    
+        <item>
+            <listing>Carrot Cake</listing>
+            <price>4.0</price>
+        </item> 
+    </category>
+</menu>
